@@ -1,0 +1,82 @@
+*{padding: 0px; margin: 0px; }
+
+.menu{
+	width: 1004px;
+	background: red; 
+	min-height: 40px;
+	margin: auto;
+}
+
+.menu ul {
+	padding: 0px;
+	margin: 0px; 
+}
+
+.menu ul li {
+	list-style: none;
+	float: left;
+	border-right: 1px solid green;
+	border-left: 1px solid green;
+	position: relative;
+}
+
+.menu ul li:first-child{
+	border-left: 0px solid;
+}
+.menu ul li:last-child{
+	border-right: 0px solid;
+}
+.menu ul li:hover{
+	
+	box-shadow: 1px 2px 10px;
+}
+
+.menu ul li a{
+	
+	text-decoration: none; 
+	display: block;
+	padding: 10px 66px;
+	color: white;
+	font-family: verdana;
+}
+
+.menu ul li a:hover{
+	
+	background: orange;
+}
+
+
+.menu ul li ul{
+	position: absolute;
+	left:999999999px;
+	}
+	
+.menu ul li:hover ul{left:0px;}
+
+.menu ul li ul li{
+	float: none; 
+	border-bottom: 1px solid red;
+}
+
+.menu ul li ul li:last-child{border-bottom:0px solid;}
+
+.menu ul li ul li a{background: green;}
+
+
+.menu ul li ul li ul li{display: none;}
+.menu ul li ul li:hover ul>li{display: block;}
+.menu ul ul ul li{margin-left: 226px; top:-56px; }
+.menu ul ul ul li a {background: hsl(282, 64%, 42%);}
+ 
+
+
+.menu ul ul ul ul{display: none;}
+.menu ul ul ul li:hover ul{display: block;}
+.menu ul ul ul ul li a{background: #26096e;}
+
+.menu ul ul ul ul li{
+	
+	margin-left: 189px;
+	top: -78px;
+	} 
+

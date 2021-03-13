@@ -1,0 +1,46 @@
+
+	body{background-image:url(acbb.jpg); background-repeat:no-repeat; background-size:cover}
+	
+	.span{width:100%;padding:10px;display:block;color:#ffff}
+	h3{color:#ffff}
+	div{color:#ffff}
+	
+	#ab{
+		width:350px;
+		padding:10px;
+		background-color:#eaeaea36;
+		margin:auto;
+		border: 2px solid #7e688a00
+	}
+	
+	#xyz input,select{
+		padding-top:8px;
+		padding-bottom:8px;
+		width:99%;
+		margin-bottom:10px;
+		border-radius:5px;
+	}
+	
+	.nm{
+		background:#09c4f1;
+		margin-bottom:10px;
+		width:100%
+	}
+	
+	.nm h2{
+		padding:10px;
+		margin:0px;
+		font-family:arial black;
+		color:#ffff;
+		text-align:center
+	}
+	
+	.submitbutton input {
+		background:#ba63d6;
+		color:#ffff;padding:8px;
+		width:100%;
+		border:1px solid #7070da;
+		border-radius:5px;
+		color:#ffff;
+	}
+	

@@ -1,0 +1,92 @@
+*{margin: 0px; padding: 0px;}
+a{
+	text-decoration: none;
+}
+header{
+	width: 100%;
+	min-height: 67px;
+	background-color: #3F5A96; 
+	color: #ffff;
+	padding: 19px;
+
+}
+
+h1 {
+    padding: 18px 145px;
+}
+
+.fb{
+	width: 40%;
+	float: left;
+	
+}
+
+.conten{
+	width: 60%;
+	float: right;
+}
+
+.div1{
+	width: 22%;
+    float: left;
+    padding: 0px 22px;
+}
+.div2{
+	width: 72%;
+	float: right;
+}
+
+h4{
+	opacity: 66%;
+}
+.Button{     
+	background-color: #3F5A96;
+    padding: 0px 9px;
+    color: #ffff;
+    margin-left: 14px;
+}
+
+
+section{
+	width: 100%;
+	min-height: 700px;
+	background: #E3E5F1;
+	padding: 19px 0px;
+
+}
+
+nav{
+	width: 43%;
+	float: left;
+}
+
+article{
+	width: 57%;
+	float: right;
+}
+
+input.ff {
+    width: 346px;
+}
+button {
+    color: #ffff;
+    padding: 5px 86px;
+    background-color: #5C9A48;
+    font-size: 24px;
+    margin-top: 20px;
+    border-radius: 9px;
+    border: 0px;
+}
+
+h3 {
+    padding: 31px 0px;
+}
+
+.nav {
+    padding: 0px 161px;
+    width: 305px;
+}
+
+.last {
+    width: 429px;
+}
