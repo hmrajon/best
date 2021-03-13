@@ -1,0 +1,152 @@
+ *{margin:0;padding:0}
+ 
+  #rajon0 {text-align:right;color:green;font-size:24px;}
+
+  #myname {
+  color:green;
+  font-size:16px
+  }
+  
+  .style2 {
+  text-align:right;
+  color:red;font-size:27px
+  }
+  
+  .style3 {
+  text-align:right;
+  color:lime;
+  font-size:32px
+  }
+  
+  .style4 {
+  color:yellow;
+  font-size:18px
+  }
+  
+  .style5 {color:red!important}
+  
+  .style6 {color:blue!important}
+  
+  .h2{
+  color:blue;
+  text-align:center;
+  background:green;
+  padding:30px;
+  width: 128px;
+  margin:auto;
+  padding:top 30px;
+  
+  }
+  
+  .h3{
+  color:red;
+  text-align:center;
+  font-size:50px;
+  padding:30px
+  color:#6f0707;
+  background:#886c6c;
+  margin-top:20px;
+  margin-bottom:20px;
+  }
+  
+  
+
+  .ab{ 
+  color:green;
+  text-align:center;
+  font-size:50px;
+  display:inline;
+  position:fixed;
+  margin:20px;
+  background-color:#f752bc;
+  padding-right:372px;
+  padding-left:10px;
+  }
+  
+  
+ 
+
+
+ div{width:300px;
+ background-color:#ffff;
+ padding:30px;
+ font-family:arial;
+ text-align:center;
+ border: 1px solid black; 
+ margin:50px;
+ }
+ 
+
+ 
+ #dollarsing{
+ color:orange;
+ text-align:center;
+ background-color:#f7f7f7;
+ padding:15px;
+ font-size:40px;
+ padding-left:26px;
+ padding-right:26px;
+ }
+  
+  
+ .blockTitele{
+ color:black;
+ font-family:arial black;
+ margin-bottom:10px;
+ margin-top: 30px;
+ }
+
+
+.div1{float:left;}
+.div2{margin:auto;} 
+.div3{float:right;}
+
+
+.fff{
+	width:300px;
+	background-color:red;
+	margin:auto;
+	
+	}
+
+
+.fhfh{width:1201px;
+		color:#827676;
+		height:570px;
+		background-color:blue;
+		}
+	
+.table_contens{background: #8bb38b;padding: 78px;font-size: 21px;border: 3px solid orange;}
+
+.button1{
+	background-color:#f40000;
+	font-size:50px;
+	padding: 20px 30px;
+	border:medium none;
+	color:#fff;
+	border-radius:15px;
+	cursor:pointer;
+	}
+	
+	
+ .button1:hover {
+  background-color:green;
+  color: blue;
+   }
+   
+.button2:hover {
+   background-color: yellow;
+   color: green;
+   }
+
+   
+ .button2{
+	background-color:blue;
+	font-size:50px;
+	padding:20px 30px;
+	border:none;
+	color:#fff;
+	border-radius:15px;
+	cursor:pointer
+	transition: all 0.09s ease 0s;
+	}
